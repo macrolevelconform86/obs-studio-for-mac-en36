@@ -1,4 +1,4 @@
-# 
+# Enhance OBS Studio for macOS with OBS Studio for macOS exclusive Extension: scene-transitions & video-stabilization, the #1 extension. Includes scene-transitions and
 
 
 
